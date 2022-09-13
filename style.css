@@ -2,7 +2,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 Body{
     background-color: hsl(217, 54%, 11%);
     height: 100vh;
